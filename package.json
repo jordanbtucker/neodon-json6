@@ -1,0 +1,17 @@
+{
+  "name": "json6",
+  "author": "James Barton <james@neodon.com>",
+  "version": "1.0.0",
+  "license": "Artistic-2.0",
+  "keywords": [
+    "json",
+    "json 6"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "eslint": "^1.9.0",
+    "jsdoc": "^3.3.3",
+    "mocha": "^2.3.3"
+  }
+}
